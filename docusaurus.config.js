@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
+  organizationName: 'Gabriel1AD1',
   projectName: 'documentacion',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
